@@ -6,3 +6,9 @@ Conducted a detailed examination of male and female tennis players' performance 
 Used Python for data analysis, applying skills in statistical analysis, data visualization, and domain knowledge.
 Leveraged key libraries, including pandas and matplotlib, for insightful visual representation.
 
+This Data Narrative is one of three parts of the project completed as part of the **ES 114: Probabilty, Statistics and Visualization** course offered to first yar Btech students at **IIT Gandhinagar** | April 2023
+
+**Links to the other two more data narrative parts of the Course:**
+
+[1995_US_Higher_Education_Data_Analysis](https://github.com/ChinthalaShivamani/1995_US_Higher_Education_Data_Analysis)
+[Goodbooks_10k_Data_Analysis](https://github.com/ChinthalaShivamani/Goodbooks_10k_Data_Analysis)
